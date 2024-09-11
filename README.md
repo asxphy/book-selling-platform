@@ -1,6 +1,6 @@
 # Online-Book-Store Website Using SPRING BOOT and REST API
 
-### Online Book Store
+### Book Selling Platform
 
 <span style="color:blue">**This Website is built for following purpose:-**</span>
 
